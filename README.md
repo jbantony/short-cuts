@@ -1,1 +1,3 @@
-# teams
+# Teams
+
+Simple script to use two teams profiles in windows...
